@@ -12,7 +12,6 @@
 ### 🚀 Featured Projects
 
 - [**FAST NUCES Vault**](https://fastvault.vercel.app/)
-- [**Repository:**](https://github.com/mtaha-23/fast-nuces-vault)
   📚 A centralized platform for FAST NUCES students to access resources, events, societies, and admission materials
 
 - [**Eventoria**](https://github.com/mtaha-23/Eventoria)  
