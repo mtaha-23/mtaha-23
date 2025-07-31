@@ -78,16 +78,11 @@
 
 ### 📊 GitHub Stats
 
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtaha-23&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mtaha-23&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtaha-23" alt="GitHub Streak" />
-</p>
-
+  </p>
 ---
 
 ### 🏆 GitHub Trophies
